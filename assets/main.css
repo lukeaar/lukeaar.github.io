@@ -23,10 +23,6 @@
     --yellow: #f1fa8c;
 }
 
-html {
-    min-height: 100%;
-}
-
 body {
     background-color: var(--background-color);
     margin: 0 auto;
